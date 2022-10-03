@@ -1,0 +1,16 @@
+nlp==0.4.0
+nltk==3.7
+scipy==1.9.1
+sklearn==1.1.2
+streamlit==1.13.0
+seaborn==0.12.0
+pandas==1.5.0
+numpy==1.23.3
+numba==0.56.2
+
+httpx==0.23.0
+fastapi==0.85.0
+uvicorn[standard]==0.18.3
+PyJWT==2.5.0
+python-decouple==3.6
+pydantic==1.10.2
